@@ -3,8 +3,7 @@
 A simple web-based app to edit, debug, and render ansible templates. 
 
 This tool is forked and extended from the [jinja2-live-parser](https://github.com/jasonguy/jinja2-live-parser), which 
-is a lightweight live parser for [Jinja2](http://jinja.pocoo.org/docs/dev/) based on [Flask](http://flask.pocoo.org/)  
-and [Jquery](http://jquery.com/).  
+is a lightweight live parser for [Jinja2](http://jinja.pocoo.org/docs/dev/) based on [Flask](http://flask.pocoo.org/) and [Jquery](http://jquery.com/).  
 
 ## Install
 
