@@ -1,0 +1,12 @@
+{
+  "name": "Ansible Jinja2 template editor",
+  "description": "Editor to develop and render Ansible and Jinja2 templates",
+  "repository": "https://github.com/heroku/button-sample",
+  "keywords": ["Jinja2"],
+  "env": {
+    "HOST": {
+      "description": "the IP to bind to",
+      "value": "0.0.0.0"
+    }
+  },
+}
